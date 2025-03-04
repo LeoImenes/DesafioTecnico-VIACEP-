@@ -1,4 +1,4 @@
- <h1>Consulta CEP - Busca de Endereços</h1>
+<h1>Consulta CEP - Busca de Endereços</h1>
         <p>Este projeto permite buscar endereços através do CEP utilizando a API do viaCEP. Os endereços buscados podem ser salvos localmente e exibidos em uma lista.</p>
 
 <h2>📌 Sobre o Projeto</h2>
